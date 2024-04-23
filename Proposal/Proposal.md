@@ -1,5 +1,5 @@
 ## What will (likely) be the name of your instrument?
-- Palm Orbs 
+- PyroPalms
 
 ## In a paragraph or two, tell me about your instrument and how you intend to implement it.
 - I would like to create two palm-sized balls for each hands that make noises based on your movements. The idea is it will be like [Raiden from Mortal Kombat](https://youtu.be/kzN-L6MErCg?si=9fUKzNOp7prXFxPg&t=42), generating electricity sounds, or those stunt magic performers on the beach, playing with fire on their hands  
@@ -29,3 +29,4 @@ Hardware: Speaker, depth sensor, temperature(?) sensor within a ball. the ball m
 
 ## In a paragraph or two, outline your next steps and tell me what additional skills you will require and what topics you might research for the completion of this project.
 - Actually synthesizing the electricity sound in Max, being able to adjust/automate parameters that will increase its intensity or volume etc, making it more complex, more energetic 
+- I need to learn a lot of things TvT 
