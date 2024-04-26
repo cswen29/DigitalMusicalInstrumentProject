@@ -3,6 +3,10 @@
 
 ### Installation
 Here are the softwares and libraries you will need to get started:
+Arduino IDE 
+- Teensy (for Arduino IDE 2.0.4 or later) in Boards Manager
+MaxMSP
+Zig Sim Pro in Apple Store 
 
 ### Breadboard setup
 Here is the [fritzing file](/Media/Serial01_Ultrasonic.fzz)
